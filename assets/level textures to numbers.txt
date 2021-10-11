@@ -1,0 +1,29 @@
+1 = grass top
+2 = grass top left
+3 = grass top right
+4 = grass left
+5 = grass right
+6 = grass bottom
+7 = grass bottom left
+8 = grass bottom right
+
+9 = substrate top
+10 = substrate top left
+11 = substrate top right
+12 = substrate left
+13 = substrate right
+14 = substrate bottom
+15 = substrate bottom left
+16 = substrate bottom right
+
+18 = grass inner top right
+19 = grass inner top left
+20 = grass inner bottom right
+21 = grass inner bottom left
+
+22 = substrate corner top right
+23 = substrate corner top left
+24 = substrate corner bottom right
+25 = substrate corner bottom left
+
+17 = deep underground
